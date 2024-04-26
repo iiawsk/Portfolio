@@ -1,0 +1,117 @@
+body
+{
+    margin: 0;
+    font-family: "Oswald", sans-serif;
+}
+.t1
+{
+    background-color: #B3C8CF;
+    color: #F1EEDC;
+    height: 100vh;
+    display: flex;
+}
+.t2
+{
+    background-color: #BED7DC;
+    color: #F1EEDC;
+    height: 100vh;
+    display: flex;
+}
+.t3
+{
+    background-color: #B3C8CF;
+    color: #F1EEDC;
+    height: 100vh;
+    display: flex;
+}
+.t4
+{
+    background-color: #BED7DC;
+    color: #F1EEDC;
+    height: 100vh;
+    display: flex;
+}
+.emp
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp2
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp3
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp4
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.photo
+{
+    width: 70%;
+    border: 20px solid white;
+    rotate: 5deg;
+    box-shadow: 20px 20px 20px 0 black;
+    border-radius: 100%;
+}
+h1
+{
+    line-height: 120px;
+    margin: 50px 0;
+    font-size: 9rem;
+}
+h2
+{
+    font-size: 80px;
+    margin: 0;
+    font-weight: 400;
+}
+h3
+{
+    font-size: 40px;
+    margin: 0;
+    font-weight: 400;
+}
+h4
+{
+    font-size: 30px;
+    margin: 0;
+    font-weight: 400;
+}
+h5
+{
+    font-size: 30px;
+    margin: 0;
+    font-weight: 400;
+}
+a
+{
+    font-size: 80px;
+    margin: 0;
+    font-weight: 400;
+}
